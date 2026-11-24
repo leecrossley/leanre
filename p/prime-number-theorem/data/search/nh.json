@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"theorem","line":258,"live":1,"mod":"PrimeNumberTheoremAnd.Rectangle","name":"Complex.nhds_hasBasis_square"},{"dom":0,"fan_in":1,"kind":"lemma","line":330,"live":0,"mod":"PrimeNumberTheoremAnd.IEANTN.LiSeries","name":"LiSeries.FubiniLogExpNeg.nhdsWithin_Ioi_le_nhdsWithin_uIcc"}]

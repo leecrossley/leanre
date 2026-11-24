@@ -1,0 +1,1 @@
+[{"dom":2,"fan_in":6,"kind":"theorem","line":1195,"live":1,"mod":"NavierStokes.PhysicalGraphBounds","name":"NavierStokes.PhysicalGraphBounds.Q_inv_ge_one"},{"dom":1,"fan_in":2,"kind":"theorem","line":204,"live":1,"mod":"NavierStokes.RenormalizedHeatMoment","name":"NavierStokes.RenormalizedHeatMoment.Q_implicit"}]

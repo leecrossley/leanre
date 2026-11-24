@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"lemma","line":100,"live":1,"mod":"Carleson.ForestOperator.LargeSeparation","name":"TileStructure.Forest.IF_disjoint_with_ball_THEN_distance_bigger_than_radius"},{"dom":1,"fan_in":2,"kind":"lemma","line":95,"live":1,"mod":"Carleson.ForestOperator.LargeSeparation","name":"TileStructure.Forest.IF_subset_THEN_not_disjoint"}]

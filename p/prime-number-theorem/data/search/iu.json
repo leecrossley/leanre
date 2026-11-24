@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"theorem","line":208,"live":1,"mod":"PrimeNumberTheoremAnd.Mathlib.Topology.MetricSpace.Annulus","name":"Metric.iUnion_annulusIco_eq_annulusIci"},{"dom":1,"fan_in":2,"kind":"theorem","line":215,"live":1,"mod":"PrimeNumberTheoremAnd.Mathlib.Topology.MetricSpace.Annulus","name":"Metric.iUnion_annulusIoc_eq_annulusIoi"}]

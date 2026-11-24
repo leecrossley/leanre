@@ -1,0 +1,1 @@
+[{"dom":90,"fan_in":1,"kind":"module","line":1,"live":0,"mod":"PrimeNumberTheoremAnd.IEANTN.KLN","name":"PrimeNumberTheoremAnd.IEANTN.KLN"},{"dom":1,"fan_in":4,"kind":"lemma","line":542,"live":1,"mod":"PrimeNumberTheoremAnd.Mathlib.Analysis.Complex.CartanBound","name":"Complex.CartanBound.K_le_four_mul_K_add_one_mul_of_quarter_le"}]

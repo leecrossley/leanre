@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"theorem","line":71,"live":1,"mod":"Breakdown.FracCell.GivenAuxPressureOpen","name":"Breakdown.CellCert.GivenFields.PressureOpen.PressureOpenInternal.qOf_mem"},{"dom":2,"fan_in":1,"kind":"theorem","line":53,"live":1,"mod":"Breakdown.CellReduction.PotPressureWeak","name":"Breakdown.PotentialShape.PressureWeak.Internal.qOf_sub"}]

@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":6,"kind":"theorem","line":566,"live":1,"mod":"Breakdown.FracCell.ModeRadialPartsA","name":"Breakdown.CellCert.CellAnalysis.ModeRadialPartsA.Internal.c1_of_smooth"},{"dom":1,"fan_in":2,"kind":"theorem","line":178,"live":1,"mod":"Breakdown.FracCell.AxisLiftSlope","name":"Breakdown.CellCert.Spectral.Internal.AxisLiftSlope.c1_le"}]

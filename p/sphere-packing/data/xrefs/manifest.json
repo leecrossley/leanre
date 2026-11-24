@@ -1,0 +1,106 @@
+{
+  "schema": "leanre.xrefs/1",
+  "mode": "source",
+  "n_decls": 1285,
+  "n_edges": 1409,
+  "edge_kind_counts": {
+    "type": 197,
+    "value": 1212,
+    "both": 0
+  },
+  "shard_size": 4096,
+  "n_shards": 1,
+  "meta_shard_size": 16384,
+  "n_meta_shards": 1,
+  "name_shards": 6,
+  "name_order": "utf16",
+  "name_ranges": [
+    [
+      "A",
+      "H₃_T_action",
+      214
+    ],
+    [
+      "H₃_T_inv_action",
+      "MagicFunction.a.IntegralEstimates.I₁.aux_hasDeriv",
+      214
+    ],
+    [
+      "MagicFunction.a.IntegralEstimates.I₁.aux_injOn",
+      "MagicFunction.b.SchwartzIntegrals.J₄'",
+      214
+    ],
+    [
+      "MagicFunction.b.SchwartzIntegrals.J₅",
+      "SpherePacking.MagicFunction.a.IntegralEstimates.I4",
+      214
+    ],
+    [
+      "SpherePacking.MagicFunction.a.IntegralEstimates.I5",
+      "jacobi_f_MDifferentiable",
+      214
+    ],
+    [
+      "jacobi_f_SIF",
+      "ψT_slash_T",
+      215
+    ]
+  ],
+  "hub_threshold": 16384,
+  "rev_hub_ids": [],
+  "kind_labels": [
+    "abbrev",
+    "axiom",
+    "def",
+    "instance",
+    "lemma",
+    "module",
+    "structure",
+    "theorem"
+  ],
+  "modules_url": "modules.lxrf",
+  "n_modules": 73,
+  "paths": {
+    "fwd": "fwd/{s}.lxrf",
+    "rev": "rev/{s}.lxrf",
+    "rev_hub": "rev_hub/{id}.lxrf",
+    "meta": "meta/{m}.lxrf",
+    "names": "names/{n}.lxrf"
+  },
+  "pad": {
+    "fwd": 0,
+    "rev": 0,
+    "rev_hub": 0,
+    "meta": 0,
+    "names": 0
+  },
+  "meta_columns": [
+    "name",
+    "kind_idx",
+    "fan_in",
+    "fan_out",
+    "fan_out_type",
+    "fan_out_value",
+    "mod_idx",
+    "line_no",
+    "live_mask",
+    "dom_size",
+    "type_nodes",
+    "value_nodes"
+  ],
+  "name_columns": [
+    "name",
+    "decl_id",
+    "kind_idx",
+    "fan_in",
+    "fan_out",
+    "mod_idx",
+    "line_no"
+  ],
+  "stats": {
+    "total_bytes": 29943,
+    "file_count": 10,
+    "max_shard_bytes": 12213,
+    "max_shard_path": "meta/0.lxrf"
+  }
+}

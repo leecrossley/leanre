@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":7,"kind":"lemma","line":327,"live":1,"mod":"Carleson.TileStructure","name":"E₂_mono"},{"dom":1,"fan_in":2,"kind":"lemma","line":38,"live":1,"mod":"Carleson.ToMathlib.CoveredByBalls","name":"CoveredByBalls.empty"}]

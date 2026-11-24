@@ -1,0 +1,1 @@
+[{"dom":4,"fan_in":0,"kind":"module","line":1,"live":1,"mod":"Main","name":"Main"},{"circuit_path":"data/circuits/theorem/TinyDemo_main_theorem.json","dom":10,"fan_in":0,"kind":"theorem","line":12,"live":1,"mod":"Main","name":"TinyDemo.main_theorem"}]

@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"instance","line":50,"live":1,"mod":"PrimeNumberTheoremAnd.Mathlib.NumberTheory.Sieve.Basic","name":"SelbergSieve.ubToμPlus"},{"dom":0,"fan_in":0,"kind":"theorem","line":388,"live":0,"mod":"PrimeNumberTheoremAnd.IEANTN.Chebyshev","name":"Chebyshev.U_bound"}]

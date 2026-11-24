@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":3,"kind":"lemma","line":62,"live":1,"mod":"FLT.Mathlib.AlgebraicGeometry.EllipticCurve.Reduction","name":"WeierstrassCurve.aeval_root_nodePoly_map"},{"dom":1,"fan_in":2,"kind":"lemma","line":732,"live":1,"mod":"FLT.AutomorphicForm.QuaternionAlgebra.Basic","name":"TotallyDefiniteQuaternionAlgebra.WeightTwoAutomorphicForm.LevelStruct.χA_eq_of_exists_mul_mul_eq"}]

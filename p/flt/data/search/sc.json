@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"lemma","line":163,"live":1,"mod":"FLT.Slop.PGL2.FiniteSubgroups.TameClassification","name":"Dickson.scalar_eq_one_in_PGL"},{"dom":1,"fan_in":2,"kind":"lemma","line":631,"live":1,"mod":"FLT.Slop.PGL2.FiniteSubgroups.PSLBasic","name":"scalar_det_one_pm_one"}]

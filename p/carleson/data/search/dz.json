@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":4,"kind":"lemma","line":172,"live":1,"mod":"Carleson.ProofData","name":"DκZ_le_two_rpow_100"},{"dom":1,"fan_in":2,"kind":"lemma","line":391,"live":1,"mod":"Carleson.MetricCarleson.Truncation","name":"D_zpow_div_two_le_R₂"}]

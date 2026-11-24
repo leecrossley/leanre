@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":1,"kind":"def","line":476,"live":1,"mod":"SpherePacking.Tactic.Test.TendstoCont","name":"good"},{"dom":1,"fan_in":1,"kind":"theorem","line":479,"live":1,"mod":"SpherePacking.Tactic.Test.TendstoCont","name":"good_attr_false"},{"dom":1,"fan_in":1,"kind":"theorem","line":482,"live":1,"mod":"SpherePacking.Tactic.Test.TendstoCont","name":"good_inline_true"}]

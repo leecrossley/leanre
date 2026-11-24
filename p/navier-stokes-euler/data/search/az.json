@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":4,"kind":"theorem","line":948,"live":1,"mod":"NavierStokes.OffplaneCorrectionExtensions","name":"NavierStokes.OffplaneCorrectionExtensions.azimuthalPotential_shrinkingSupport"},{"dom":1,"fan_in":4,"kind":"theorem","line":812,"live":1,"mod":"NavierStokes.OffplaneCorrectionExtensions","name":"NavierStokes.OffplaneCorrectionExtensions.azimuthalPotential_smooth"}]

@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":6,"kind":"lemma","line":91,"live":1,"mod":"SpherePacking.ModularForms.Eisenstein","name":"E₄_coe"},{"dom":1,"fan_in":6,"kind":"lemma","line":94,"live":1,"mod":"SpherePacking.ModularForms.Eisenstein","name":"E₆_coe"},{"dom":1,"fan_in":2,"kind":"theorem","line":492,"live":1,"mod":"SpherePacking.ModularForms.JacobiTheta.Derivative","name":"E₄_coe_eq_H_sum_sq"}]

@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":3,"kind":"def","line":2523,"live":1,"mod":"PrimeNumberTheoremAnd.MediumPNT","name":"I3BoundGenProp"},{"dom":1,"fan_in":3,"kind":"theorem","line":2565,"live":1,"mod":"PrimeNumberTheoremAnd.MediumPNT","name":"I3GenBound"}]

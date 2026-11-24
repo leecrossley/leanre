@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":3,"kind":"lemma","line":39,"live":1,"mod":"FLT.Mathlib.NumberTheory.Padics.PadicIntegers","name":"PadicInt.nnnorm_p"},{"dom":1,"fan_in":3,"kind":"lemma","line":41,"live":1,"mod":"FLT.Mathlib.NumberTheory.Padics.PadicIntegers","name":"PadicInt.nnnorm_units"}]

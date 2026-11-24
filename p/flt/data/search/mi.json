@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":4,"kind":"def","line":79,"live":1,"mod":"FLT.Slop.DimensionTheorem.Defs","name":"DimensionTheorem.minGenPrimary"},{"dom":1,"fan_in":2,"kind":"theorem","line":81,"live":1,"mod":"FLT.Slop.DimensionTheorem.DimEqDelta","name":"DimensionTheorem.minGenPrimary_le_ringKrullDim"}]

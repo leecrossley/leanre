@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"def","line":247,"live":1,"mod":"Carleson.ForestOperator.PointwiseEstimate","name":"TileStructure.Forest.ijIntegral"},{"dom":1,"fan_in":2,"kind":"lemma","line":250,"live":1,"mod":"Carleson.ForestOperator.PointwiseEstimate","name":"TileStructure.Forest.ijIntegral_lt_top"}]

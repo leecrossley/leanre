@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":4,"kind":"lemma","line":79,"live":1,"mod":"Breakdown.FracCell.EnergyPair","name":"Breakdown.CellCert.CellEnergy.pvec_add"},{"dom":1,"fan_in":4,"kind":"lemma","line":85,"live":1,"mod":"Breakdown.FracCell.EnergyPair","name":"Breakdown.CellCert.CellEnergy.pvec_smul"}]

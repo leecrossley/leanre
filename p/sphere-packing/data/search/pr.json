@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"module","line":1,"live":1,"mod":"SpherePacking.CohnElkies.Prereqs","name":"SpherePacking.CohnElkies.Prereqs"},{"dom":1,"fan_in":2,"kind":"lemma","line":656,"live":1,"mod":"SpherePacking.Basic.E8","name":"preimage_fundamentalDomain_E8_ℤBasis"}]

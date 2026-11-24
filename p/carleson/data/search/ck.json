@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":6,"kind":"def","line":245,"live":1,"mod":"Carleson.Defs","name":"C_K"},{"dom":1,"fan_in":3,"kind":"lemma","line":387,"live":1,"mod":"Carleson.DoublingMeasure","name":"C_K_pos"},{"dom":1,"fan_in":3,"kind":"lemma","line":388,"live":1,"mod":"Carleson.DoublingMeasure","name":"C_K_pos_real"}]

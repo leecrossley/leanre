@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":3,"kind":"theorem","line":140,"live":1,"mod":"PrimeNumberTheoremAnd.Mathlib.NumberTheory.LSeries.RiemannZetaAbelKernel","name":"ZetaAbelFractKernel.kernel_deriv_norm_bound_on_ball"},{"dom":1,"fan_in":2,"kind":"lemma","line":827,"live":1,"mod":"PrimeNumberTheoremAnd.PerronFormula","name":"Perron.keyIdentity"}]

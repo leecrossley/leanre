@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":7,"kind":"theorem","line":448,"live":1,"mod":"NavierStokes.HeatedOutgoing","name":"NavierStokes.HeatedOutgoing.J_integrand_eq"},{"dom":1,"fan_in":2,"kind":"theorem","line":416,"live":1,"mod":"NavierStokes.ExtendedHeatedOutgoing","name":"NavierStokes.ExtendedHeatedOutgoing.J_integrand_eq"}]

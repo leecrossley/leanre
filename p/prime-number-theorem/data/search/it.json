@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"theorem","line":40,"live":1,"mod":"PrimeNumberTheoremAnd.Mathlib.NumberTheory.Sieve.AuxResults","name":"Aux.ite_sum_zero"},{"dom":1,"fan_in":2,"kind":"lemma","line":149,"live":1,"mod":"PrimeNumberTheoremAnd.Sobolev","name":"W1.iteratedDeriv_sub"}]

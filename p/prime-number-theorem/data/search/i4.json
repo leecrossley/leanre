@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":3,"kind":"def","line":2870,"live":1,"mod":"PrimeNumberTheoremAnd.MediumPNT","name":"I4BoundGenProp"},{"dom":1,"fan_in":3,"kind":"lemma","line":2894,"live":1,"mod":"PrimeNumberTheoremAnd.MediumPNT","name":"I4GenBound"}]

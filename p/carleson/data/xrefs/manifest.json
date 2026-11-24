@@ -1,0 +1,141 @@
+{
+  "schema": "leanre.xrefs/1",
+  "mode": "source",
+  "n_decls": 3230,
+  "n_edges": 3435,
+  "edge_kind_counts": {
+    "type": 332,
+    "value": 3103,
+    "both": 0
+  },
+  "shard_size": 4096,
+  "n_shards": 1,
+  "meta_shard_size": 16384,
+  "n_meta_shards": 1,
+  "name_shards": 13,
+  "name_order": "utf16",
+  "name_ranges": [
+    [
+      "A",
+      "Carleson.LipschitzNorm",
+      248
+    ],
+    [
+      "Carleson.MetricCarleson.Basic",
+      "ENNReal.eLpNorm_convolution_le_of_norm_le_mul",
+      248
+    ],
+    [
+      "ENNReal.eLpNorm_eq_eLpNorm_rpow",
+      "MeasureTheory.AEMeasurable.withDensity",
+      249
+    ],
+    [
+      "MeasureTheory.AEStronglyMeasurable.adjointCarleson",
+      "MeasureTheory.SubadditiveOn.const",
+      248
+    ],
+    [
+      "MeasureTheory.SubadditiveOn.iSup",
+      "MeasureTheory.lowerSemicontinuous_measure_ball",
+      249
+    ],
+    [
+      "MeasureTheory.lt_rearrangement_iff_lt_distribution",
+      "Set.Annulus.co_eq_empty",
+      248
+    ],
+    [
+      "Set.Annulus.co_subset_ball",
+      "TileStructure.Forest.approxOnCube_nonneg",
+      249
+    ],
+    [
+      "TileStructure.Forest.approxOnCube_ofReal",
+      "TileStructure.Row._anon_95",
+      248
+    ],
+    [
+      "TileStructure.Row.mem_𝔗",
+      "control_approximation_effect'",
+      249
+    ],
+    [
+      "cotlar_control",
+      "exists_k_n_j_of_mem_𝔓pos",
+      248
+    ],
+    [
+      "exists_k_n_of_mem_𝔓pos",
+      "localOscillation_on_empty_ball",
+      249
+    ],
+    [
+      "localOscillation_on_emptyset",
+      "stackSize",
+      248
+    ],
+    [
+      "stackSize_congr",
+      "𝔰_eq",
+      249
+    ]
+  ],
+  "hub_threshold": 16384,
+  "rev_hub_ids": [],
+  "kind_labels": [
+    "abbrev",
+    "class",
+    "def",
+    "instance",
+    "lemma",
+    "module",
+    "structure",
+    "theorem"
+  ],
+  "modules_url": "modules.lxrf",
+  "n_modules": 127,
+  "paths": {
+    "fwd": "fwd/{s}.lxrf",
+    "rev": "rev/{s}.lxrf",
+    "rev_hub": "rev_hub/{id}.lxrf",
+    "meta": "meta/{m}.lxrf",
+    "names": "names/{n}.lxrf"
+  },
+  "pad": {
+    "fwd": 0,
+    "rev": 0,
+    "rev_hub": 0,
+    "meta": 0,
+    "names": 0
+  },
+  "meta_columns": [
+    "name",
+    "kind_idx",
+    "fan_in",
+    "fan_out",
+    "fan_out_type",
+    "fan_out_value",
+    "mod_idx",
+    "line_no",
+    "live_mask",
+    "dom_size",
+    "type_nodes",
+    "value_nodes"
+  ],
+  "name_columns": [
+    "name",
+    "decl_id",
+    "kind_idx",
+    "fan_in",
+    "fan_out",
+    "mod_idx",
+    "line_no"
+  ],
+  "stats": {
+    "total_bytes": 77918,
+    "file_count": 17,
+    "max_shard_bytes": 31957,
+    "max_shard_path": "meta/0.lxrf"
+  }
+}

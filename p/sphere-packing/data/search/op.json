@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":1,"kind":"axiom","line":343,"live":1,"mod":"SpherePacking.Tactic.Test.TendstoCont","name":"opaqueF"},{"dom":1,"fan_in":1,"kind":"axiom","line":344,"live":1,"mod":"SpherePacking.Tactic.Test.TendstoCont","name":"opaqueF_tendsto"}]

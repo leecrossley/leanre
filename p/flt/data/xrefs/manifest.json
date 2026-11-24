@@ -1,0 +1,157 @@
+{
+  "schema": "leanre.xrefs/1",
+  "mode": "source",
+  "n_decls": 3997,
+  "n_edges": 4395,
+  "edge_kind_counts": {
+    "type": 663,
+    "value": 3732,
+    "both": 0
+  },
+  "shard_size": 4096,
+  "n_shards": 1,
+  "meta_shard_size": 16384,
+  "n_meta_shards": 1,
+  "name_shards": 16,
+  "name_order": "utf16",
+  "name_ranges": [
+    [
+      "A4_iso_PSL2_F3",
+      "CategoryTheory.Subfunctor.ofIsTerminal",
+      249
+    ],
+    [
+      "CochainComplex.prev_nat",
+      "Dickson.classEquation_nat_to_rat",
+      250
+    ],
+    [
+      "Dickson.classification_tame",
+      "Dickson.sylow_card_ge_3",
+      250
+    ],
+    [
+      "Dickson.sylow_card_prime_pow",
+      "FLT.KnownIn1980s.EllipticCurves.QuadraticTwists.SplitMultiplicativeReduction",
+      250
+    ],
+    [
+      "FLT.KnownIn1980s.EllipticCurves.ReductionBaseChange",
+      "FreyPackage.hgcdac",
+      250
+    ],
+    [
+      "FreyPackage.hgcdbc",
+      "InverseLimit.instOne",
+      249
+    ],
+    [
+      "InverseLimit.intCast_def",
+      "IsDedekindDomain.HeightOneSpectrum.mem_completionIdeal_iff",
+      250
+    ],
+    [
+      "IsDedekindDomain.HeightOneSpectrum.mem_completionIdeal_iff'",
+      "MeasureTheory.Matrix.transposeContinuousMulEquiv",
+      250
+    ],
+    [
+      "MeasureTheory.Measure.IsOpenPosMeasure.withDensity",
+      "NumberField.AdeleRing.DivisionAlgebra.Aux.InfiniteAdeleRing._anon_469",
+      250
+    ],
+    [
+      "NumberField.AdeleRing.DivisionAlgebra.Aux.InfiniteAdeleRing._anon_476",
+      "PatchingAlgebra.quotientTo",
+      250
+    ],
+    [
+      "PatchingAlgebra.quotientToOver",
+      "RestrictedProduct.secondCountableTopology",
+      249
+    ],
+    [
+      "RestrictedProduct.singleContinuousAddMonoidHom",
+      "TotallyDefiniteQuaternionAlgebra.HeckeAlgebra._anon_894",
+      250
+    ],
+    [
+      "TotallyDefiniteQuaternionAlgebra.HeckeAlgebra._anon_960",
+      "TotallyDefiniteQuaternionAlgebra.WeightTwoAutomorphicForm.groupSMul",
+      250
+    ],
+    [
+      "TotallyDefiniteQuaternionAlgebra.WeightTwoAutomorphicForm.groupSMul_apply",
+      "WeierstrassCurve.valuation_u_eq_one_of_isMinimal_smul",
+      250
+    ],
+    [
+      "WeierstrassCurve.valuation_Δ_aux_smul_le",
+      "_anon_635",
+      250
+    ],
+    [
+      "_anon_638",
+      "φLocalKvLinear",
+      250
+    ]
+  ],
+  "hub_threshold": 16384,
+  "rev_hub_ids": [],
+  "kind_labels": [
+    "abbrev",
+    "axiom",
+    "class",
+    "def",
+    "instance",
+    "lemma",
+    "module",
+    "structure",
+    "theorem"
+  ],
+  "modules_url": "modules.lxrf",
+  "n_modules": 265,
+  "paths": {
+    "fwd": "fwd/{s}.lxrf",
+    "rev": "rev/{s}.lxrf",
+    "rev_hub": "rev_hub/{id}.lxrf",
+    "meta": "meta/{m}.lxrf",
+    "names": "names/{n}.lxrf"
+  },
+  "pad": {
+    "fwd": 0,
+    "rev": 0,
+    "rev_hub": 0,
+    "meta": 0,
+    "names": 0
+  },
+  "meta_columns": [
+    "name",
+    "kind_idx",
+    "fan_in",
+    "fan_out",
+    "fan_out_type",
+    "fan_out_value",
+    "mod_idx",
+    "line_no",
+    "live_mask",
+    "dom_size",
+    "type_nodes",
+    "value_nodes"
+  ],
+  "name_columns": [
+    "name",
+    "decl_id",
+    "kind_idx",
+    "fan_in",
+    "fan_out",
+    "mod_idx",
+    "line_no"
+  ],
+  "stats": {
+    "total_bytes": 106958,
+    "file_count": 20,
+    "max_shard_bytes": 44439,
+    "max_shard_path": "meta/0.lxrf"
+  }
+}

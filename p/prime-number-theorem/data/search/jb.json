@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"def","line":933,"live":1,"mod":"PrimeNumberTheoremAnd.StrongPNT","name":"JBlaschke"},{"dom":1,"fan_in":2,"kind":"theorem","line":967,"live":1,"mod":"PrimeNumberTheoremAnd.StrongPNT","name":"JBlaschkeDerivBound"}]

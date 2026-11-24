@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":6,"kind":"theorem","line":262,"live":1,"mod":"Carleson.ToMathlib.MeasureTheory.Measure.NNReal","name":"NNReal.Ici_eq"},{"dom":1,"fan_in":4,"kind":"lemma","line":123,"live":1,"mod":"Carleson.ProofData","name":"Icc_σ_subset_Icc_S"}]

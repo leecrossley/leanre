@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":9,"kind":"theorem","line":253,"live":1,"mod":"Breakdown.FracCell.AngularFrame","name":"Breakdown.CellCert.CellEnergy.Internal.AngularFrame.G_sq_le"},{"dom":1,"fan_in":4,"kind":"theorem","line":290,"live":1,"mod":"Breakdown.FracCert.HeldExists","name":"Breakdown.FracInternal.HeldExists.g_smul"}]

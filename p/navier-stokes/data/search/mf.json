@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":11,"kind":"theorem","line":375,"live":1,"mod":"Breakdown.Torus.FreqTrSeries","name":"Breakdown.Periodic.FreqTrSeries.Internal.mFreqTrCoeff_compMap"},{"dom":1,"fan_in":11,"kind":"theorem","line":360,"live":1,"mod":"Breakdown.Torus.FreqTrSeries","name":"Breakdown.Periodic.FreqTrSeries.Internal.mFreqTr_torusMap"}]

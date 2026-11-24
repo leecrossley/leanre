@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":3,"kind":"lemma","line":21,"live":1,"mod":"Carleson.Classical.HilbertKernel","name":"k_of_abs_le_one"},{"dom":1,"fan_in":3,"kind":"lemma","line":18,"live":1,"mod":"Carleson.Classical.HilbertKernel","name":"k_of_neg_eq_conj_k"},{"dom":1,"fan_in":3,"kind":"lemma","line":24,"live":1,"mod":"Carleson.Classical.HilbertKernel","name":"k_of_one_le_abs"}]

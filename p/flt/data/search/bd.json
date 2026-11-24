@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"def","line":212,"live":1,"mod":"FLT.Mathlib.RepresentationTheory.Homological.ContCohomology.Basic","name":"ContinuousCohomology.bdryKer"},{"dom":1,"fan_in":2,"kind":"lemma","line":219,"live":1,"mod":"FLT.Mathlib.RepresentationTheory.Homological.ContCohomology.Basic","name":"ContinuousCohomology.bdryKer_apply_coe"}]

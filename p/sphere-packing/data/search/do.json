@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"lemma","line":465,"live":1,"mod":"SpherePacking.Basic.E8","name":"dotProduct_eq_inn"},{"dom":1,"fan_in":2,"kind":"lemma","line":473,"live":1,"mod":"SpherePacking.Basic.E8","name":"dotProduct_is_integer"}]

@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":4,"kind":"lemma","line":129,"live":1,"mod":"Carleson.ProofData","name":"q_le_two"},{"dom":1,"fan_in":2,"kind":"lemma","line":960,"live":1,"mod":"Carleson.Antichain.AntichainTileCount","name":"Antichain.q₆_le_superparticular"}]

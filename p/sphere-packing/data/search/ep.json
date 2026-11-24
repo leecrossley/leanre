@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":6,"kind":"lemma","line":61,"live":1,"mod":"SpherePacking.ModularForms.Eisenstein","name":"E₄_periodic"},{"dom":1,"fan_in":6,"kind":"lemma","line":65,"live":1,"mod":"SpherePacking.ModularForms.Eisenstein","name":"E₆_periodic"},{"dom":1,"fan_in":3,"kind":"lemma","line":29,"live":1,"mod":"SpherePacking.ModularForms.E2","name":"E₂_periodic"}]

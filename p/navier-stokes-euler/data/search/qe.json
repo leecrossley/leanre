@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":5,"kind":"theorem","line":77,"live":1,"mod":"NavierStokes.PhysicalMeanJetBounds","name":"NavierStokes.PhysicalMeanJetBounds.Q_eq_half_pow"},{"dom":1,"fan_in":3,"kind":"theorem","line":36,"live":1,"mod":"NavierStokes.ActualBaseVelocityBounds","name":"NavierStokes.ActualBaseVelocityBounds.q_eq"}]

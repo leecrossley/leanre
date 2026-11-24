@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":4,"kind":"lemma","line":91,"live":1,"mod":"SpherePacking.ModularForms.FG","name":"G_eq"},{"dom":1,"fan_in":4,"kind":"theorem","line":79,"live":1,"mod":"SpherePacking.ModularForms.FG","name":"G_eq_GReal"},{"dom":1,"fan_in":1,"kind":"theorem","line":77,"live":1,"mod":"SpherePacking.MagicFunction.g.Basic","name":"g_eq_integral_A"}]

@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"theorem","line":204,"live":1,"mod":"FLT.Slop.PGL2.FiniteSubgroups.FieldReconstruction","name":"Dickson.z1_eq_pm_minus_one"},{"dom":1,"fan_in":2,"kind":"theorem","line":229,"live":1,"mod":"FLT.Slop.PGL2.FiniteSubgroups.PSLRecognition","name":"Dickson.z1_eq_psl"}]

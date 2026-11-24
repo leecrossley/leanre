@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":3,"kind":"def","line":3273,"live":1,"mod":"PrimeNumberTheoremAnd.MediumPNT","name":"I6BoundGenProp"},{"dom":1,"fan_in":3,"kind":"lemma","line":3293,"live":1,"mod":"PrimeNumberTheoremAnd.MediumPNT","name":"I6GenBound"},{"dom":1,"fan_in":3,"kind":"lemma","line":3259,"live":1,"mod":"PrimeNumberTheoremAnd.MediumPNT","name":"I6I4"}]

@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"def","line":637,"live":1,"mod":"FLT.NumberField.AdeleRing","name":"Rat.AdeleRing.fundamentalDomain"},{"dom":1,"fan_in":2,"kind":"lemma","line":695,"live":1,"mod":"FLT.NumberField.AdeleRing","name":"Rat.AdeleRing.fundamentalDomain_traversal"}]

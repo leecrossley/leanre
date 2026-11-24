@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":1,"kind":"def","line":50,"live":1,"mod":"FLT.Proof","name":"FLT.Bosses.B3"},{"dom":1,"fan_in":1,"kind":"theorem","line":80,"live":1,"mod":"FLT.Proof","name":"FLT.Bosses.B3_implies_B2"},{"dom":1,"fan_in":1,"kind":"theorem","line":101,"live":1,"mod":"FLT.Proof","name":"FLT.Bosses.B3_proof"}]

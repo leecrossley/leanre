@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":5,"kind":"theorem","line":490,"live":1,"mod":"NavierStokes.OutgoingHistories","name":"NavierStokes.OutgoingHistories.E_ideal"},{"dom":1,"fan_in":2,"kind":"theorem","line":125,"live":1,"mod":"NavierStokes.OutgoingProfile","name":"NavierStokes.OutgoingProfile.Profile.E_ideal"}]

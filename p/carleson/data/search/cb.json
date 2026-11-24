@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":7,"kind":"lemma","line":96,"live":1,"mod":"Carleson.TileStructure","name":"cball_disjoint"},{"dom":1,"fan_in":7,"kind":"lemma","line":89,"live":1,"mod":"Carleson.TileStructure","name":"cball_subset"},{"dom":1,"fan_in":2,"kind":"lemma","line":70,"live":1,"mod":"Carleson.Forest","name":"TileStructure.Forest.cball_subset_cball"}]

@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"lemma","line":233,"live":1,"mod":"FLT.HaarMeasure.HaarChar.FiniteAdeleRing","name":"FiniteAdeleRing.Aux.e_commSq"},{"dom":1,"fan_in":2,"kind":"lemma","line":800,"live":1,"mod":"FLT.DivisionAlgebra.Finiteness","name":"NumberField.AdeleRing.DivisionAlgebra.Aux.AdeleRing.DivisionAlgebra.Aux.E_compact"}]

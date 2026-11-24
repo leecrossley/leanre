@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":5,"kind":"theorem","line":198,"live":1,"mod":"Breakdown.FracCell.RelRadialCoef","name":"Breakdown.CellCert.CellFormula.Internal.RelRadialCoef.F_coeff"},{"dom":1,"fan_in":3,"kind":"theorem","line":278,"live":1,"mod":"Breakdown.FreqTr.BilinCompact","name":"Breakdown.Freq.Internal.BilinCompact.fcut_apply"}]

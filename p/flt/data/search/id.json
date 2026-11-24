@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":3,"kind":"def","line":46,"live":1,"mod":"FLT.Patching.Utils.Lemmas","name":"Ideal.idealQuotientEquiv"},{"dom":1,"fan_in":2,"kind":"lemma","line":138,"live":1,"mod":"FLT.Deformations.Categories","name":"Deformation.ProartinianCat.id_apply"}]

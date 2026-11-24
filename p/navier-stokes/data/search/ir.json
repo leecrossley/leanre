@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":3,"kind":"theorem","line":272,"live":1,"mod":"Breakdown.FracCell.ResolvedEnergyCore","name":"Breakdown.CellCert.CellAnalysis.ResolvedEnergyInternal.iR_pos"},{"dom":1,"fan_in":2,"kind":"lemma","line":393,"live":1,"mod":"Breakdown.FracCell.SharpEnergyVorticityIdentity","name":"Breakdown.CellCert.CellAnalysis.SharpEnergyVorticityIdentityInternal.iR_pos"}]

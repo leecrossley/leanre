@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"theorem","line":20,"live":1,"mod":"FLT.Mathlib.RingTheory.Ideal.Quotient.Basic","name":"Ideal.Quotient.out_sub"},{"dom":1,"fan_in":1,"kind":"lemma","line":30,"live":1,"mod":"FLT.Mathlib.MeasureTheory.Measure.Regular","name":"Topology.IsOpenEmbedding.outerRegular_comap"}]

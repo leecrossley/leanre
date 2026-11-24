@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"def","line":787,"live":1,"mod":"Carleson.ForestOperator.L2Estimate","name":"TileStructure.Forest.cS_bound"},{"dom":1,"fan_in":2,"kind":"lemma","line":119,"live":1,"mod":"Carleson.ForestOperator.Forests","name":"TileStructure.Forest.cst_disjoint"}]

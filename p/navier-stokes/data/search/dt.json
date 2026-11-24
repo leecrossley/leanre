@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":3,"kind":"lemma","line":452,"live":1,"mod":"Breakdown.FracCell.ModeRadialPartsF","name":"Breakdown.CellCert.CellFormula.Internal.ModeRadialPartsF.dtest_mv_int"},{"dom":1,"fan_in":3,"kind":"theorem","line":516,"live":1,"mod":"Breakdown.FracCell.StrainFaceRadialTangent","name":"Breakdown.CellCert.CellFormula.RadialTangentInternal.dtest"}]

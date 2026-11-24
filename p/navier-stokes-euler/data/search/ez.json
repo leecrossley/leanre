@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":4,"kind":"theorem","line":1095,"live":1,"mod":"NavierStokes.FiveProfileMoments","name":"NavierStokes.FiveProfileMoments.e_zero_outside"},{"dom":1,"fan_in":2,"kind":"theorem","line":993,"live":1,"mod":"NavierStokes.MeanResidual","name":"NavierStokes.MeanResidual.Ez_expanded"}]

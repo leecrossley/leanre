@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"module","line":1,"live":1,"mod":"Carleson.ForestOperator.L2Estimate","name":"Carleson.ForestOperator.L2Estimate"},{"dom":1,"fan_in":2,"kind":"lemma","line":16,"live":1,"mod":"Carleson.Classical.SpectralProjectionBound","name":"L2norm_sq_eq"}]

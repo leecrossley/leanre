@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"lemma","line":1198,"live":1,"mod":"Carleson.ForestOperator.LargeSeparation","name":"TileStructure.Forest.gtc_integral_bound"},{"dom":1,"fan_in":2,"kind":"lemma","line":1301,"live":1,"mod":"Carleson.ForestOperator.LargeSeparation","name":"TileStructure.Forest.gtc_sum_Icc_le_two"}]

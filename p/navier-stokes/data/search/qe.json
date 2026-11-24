@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":2,"kind":"theorem","line":530,"live":1,"mod":"Breakdown.FracCell.GivenAuxPressureOpen","name":"Breakdown.CellCert.GivenFields.PressureOpen.PressureOpenInternal.q_eq"},{"dom":1,"fan_in":1,"kind":"theorem","line":261,"live":1,"mod":"Breakdown.FracCell.GivenAuxAtomGradOff","name":"Breakdown.CellCert.GivenFields.AtomGradOffInternal.q_eq"}]

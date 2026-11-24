@@ -1,0 +1,261 @@
+{
+  "schema": "leanre.xrefs/1",
+  "mode": "source",
+  "n_decls": 9288,
+  "n_edges": 9571,
+  "edge_kind_counts": {
+    "type": 517,
+    "value": 9054,
+    "both": 0
+  },
+  "shard_size": 4096,
+  "n_shards": 3,
+  "meta_shard_size": 16384,
+  "n_meta_shards": 1,
+  "name_shards": 37,
+  "name_order": "utf16",
+  "name_ranges": [
+    [
+      "AbsolutelyContinuous",
+      "BKLNW.bklnw_table_11_verification",
+      251
+    ],
+    [
+      "BKLNW.bklnw_table_12_verification",
+      "BKLNW.row1775_a2_le",
+      251
+    ],
+    [
+      "BKLNW.row1775_eps_le",
+      "BKLNW.row3325_eps_le",
+      251
+    ],
+    [
+      "BKLNW.row3325_table8_mem",
+      "BKLNW.row50_eps_le",
+      251
+    ],
+    [
+      "BKLNW.row5100_a2_le",
+      "BKLNW.table_10_next_cert_12300",
+      251
+    ],
+    [
+      "BKLNW.table_10_next_cert_12400",
+      "BKLNW.table_10_next_cert_9000",
+      251
+    ],
+    [
+      "BKLNW.table_10_next_cert_9100",
+      "BKLNW.table_10_row1600_k1_margin",
+      251
+    ],
+    [
+      "BKLNW.table_10_row1600_k2_margin",
+      "BKLNW.table_10_row23_k1_margin",
+      251
+    ],
+    [
+      "BKLNW.table_10_row23_k2_margin",
+      "BKLNW.table_10_row3150_k4_margin",
+      251
+    ],
+    [
+      "BKLNW.table_10_row3150_k5_margin",
+      "BKLNW.table_10_row3975_k1_margin",
+      251
+    ],
+    [
+      "BKLNW.table_10_row3975_k2_margin",
+      "BKLNW.table_10_row4775_k1_margin",
+      251
+    ],
+    [
+      "BKLNW.table_10_row4775_k2_margin",
+      "BKLNW.table_10_row65_k5_margin",
+      251
+    ],
+    [
+      "BKLNW.table_10_row65_values_of_mem",
+      "BKLNW.table_10_row9800_k4_margin",
+      251
+    ],
+    [
+      "BKLNW.table_10_row9800_k5_margin",
+      "BKLNW.table_11_suffix_from_7700",
+      251
+    ],
+    [
+      "BKLNW.table_11_suffix_from_7800",
+      "BlaschkeNonzero",
+      251
+    ],
+    [
+      "BlaschkeOfZero",
+      "CH2.centralRectangle_boundary_order_nonneg",
+      251
+    ],
+    [
+      "CH2.centralRectangle_inter_poles_eq",
+      "CH2.varphi_fourier_decay",
+      251
+    ],
+    [
+      "CH2.varphi_fourier_ident",
+      "Complex.Hadamard.divisorCanonicalProduct",
+      251
+    ],
+    [
+      "Complex.Hadamard.divisorCanonicalProduct_eq_canonicalProduct_of_equiv",
+      "Complex.weierstrassFactor_eq_zero_iff",
+      251
+    ],
+    [
+      "Complex.weierstrassFactor_ne_zero_iff",
+      "Eπ.bound",
+      251
+    ],
+    [
+      "Eπ.classicalBound",
+      "FKS2.Table4Ext.cells_07_checked",
+      251
+    ],
+    [
+      "FKS2.Table4Ext.cells_08",
+      "FKS2.integral_one_div_log_sq_le_of_ge",
+      251
+    ],
+    [
+      "FKS2.integral_sq_mul_exp_le",
+      "I9BoundGenProp",
+      251
+    ],
+    [
+      "I9I1",
+      "Kadiri.kadiri_thm_3_1_q1_eq_14_core",
+      251
+    ],
+    [
+      "Kadiri.kadiri_thm_3_1_q1_eq_14_of_uniform_fourier_inv_trunc_bound",
+      "Lcm.σ",
+      251
+    ],
+    [
+      "Lcm.σnorm",
+      "LogTables.exp_neg_2525_2_lt",
+      251
+    ],
+    [
+      "LogTables.exp_neg_25400_3_lt",
+      "LogTables.exp_neg_7500_lt",
+      251
+    ],
+    [
+      "LogTables.exp_neg_750_lt",
+      "Mertens.sum_log_prime_div_eq_log''",
+      251
+    ],
+    [
+      "Mertens.sum_mangoldt_div_eq",
+      "PrimeNumberTheoremAnd.IEANTN.FKS2Cor24Row8",
+      251
+    ],
+    [
+      "PrimeNumberTheoremAnd.IEANTN.FKS2Cor24Row9",
+      "RS_prime._root_.mertensConstant",
+      251
+    ],
+    [
+      "RS_prime.bound_deriv",
+      "RectangleIntegral'_eq_sumResiduesIn",
+      251
+    ],
+    [
+      "RectangleIntegral.const_mul'",
+      "ZetaAppendix.B1_eq_fract_sub_half",
+      251
+    ],
+    [
+      "ZetaAppendix.B1_eq_sub_nat_sub_half_of_mem_Ioo",
+      "a2_25_mem_Icc",
+      251
+    ],
+    [
+      "a2_25_upper",
+      "fejer_kernel_integral_half_range",
+      251
+    ],
+    [
+      "fejer_kernel_integral_limit_zero",
+      "laplaceTransformBilateral",
+      251
+    ],
+    [
+      "laplaceTransformBilateral_eq_fourier",
+      "rectangle_disjoint_singleton",
+      251
+    ],
+    [
+      "rectangle_in_convex",
+      "ζ₀'",
+      252
+    ]
+  ],
+  "hub_threshold": 16384,
+  "rev_hub_ids": [],
+  "kind_labels": [
+    "abbrev",
+    "class",
+    "def",
+    "instance",
+    "lemma",
+    "module",
+    "structure",
+    "theorem"
+  ],
+  "modules_url": "modules.lxrf",
+  "n_modules": 234,
+  "paths": {
+    "fwd": "fwd/{s}.lxrf",
+    "rev": "rev/{s}.lxrf",
+    "rev_hub": "rev_hub/{id}.lxrf",
+    "meta": "meta/{m}.lxrf",
+    "names": "names/{n}.lxrf"
+  },
+  "pad": {
+    "fwd": 0,
+    "rev": 0,
+    "rev_hub": 0,
+    "meta": 0,
+    "names": 0
+  },
+  "meta_columns": [
+    "name",
+    "kind_idx",
+    "fan_in",
+    "fan_out",
+    "fan_out_type",
+    "fan_out_value",
+    "mod_idx",
+    "line_no",
+    "live_mask",
+    "dom_size",
+    "type_nodes",
+    "value_nodes"
+  ],
+  "name_columns": [
+    "name",
+    "decl_id",
+    "kind_idx",
+    "fan_in",
+    "fan_out",
+    "mod_idx",
+    "line_no"
+  ],
+  "stats": {
+    "total_bytes": 193105,
+    "file_count": 45,
+    "max_shard_bytes": 81142,
+    "max_shard_path": "meta/0.lxrf"
+  }
+}

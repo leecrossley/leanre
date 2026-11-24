@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":9,"kind":"theorem","line":99,"live":1,"mod":"NavierStokes.SimilarityProfile","name":"NavierStokes.SimilarityProfile.q_hasDerivAt_time"},{"dom":1,"fan_in":9,"kind":"theorem","line":123,"live":1,"mod":"NavierStokes.SimilarityProfile","name":"NavierStokes.SimilarityProfile.q_hasDerivAt_z"}]

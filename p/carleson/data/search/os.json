@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":4,"kind":"lemma","line":157,"live":1,"mod":"Carleson.Classical.CarlesonOnTheRealLineBasic","name":"oscillation_control"},{"dom":1,"fan_in":3,"kind":"lemma","line":221,"live":1,"mod":"Carleson.DoublingMeasure","name":"oscillation_le_cdist"}]

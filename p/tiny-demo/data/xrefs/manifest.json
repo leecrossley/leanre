@@ -1,0 +1,77 @@
+{
+  "schema": "leanre.xrefs/1",
+  "mode": "kernel",
+  "n_decls": 17,
+  "n_edges": 39,
+  "edge_kind_counts": {
+    "type": 15,
+    "value": 7,
+    "both": 17
+  },
+  "shard_size": 4096,
+  "n_shards": 1,
+  "meta_shard_size": 16384,
+  "n_meta_shards": 1,
+  "name_shards": 1,
+  "name_order": "utf16",
+  "name_ranges": [
+    [
+      "Bool",
+      "propext",
+      17
+    ]
+  ],
+  "hub_threshold": 16384,
+  "rev_hub_ids": [],
+  "kind_labels": [
+    "axiom",
+    "def",
+    "inductive",
+    "thm"
+  ],
+  "modules_url": "modules.lxrf",
+  "n_modules": 5,
+  "paths": {
+    "fwd": "fwd/{s}.lxrf",
+    "rev": "rev/{s}.lxrf",
+    "rev_hub": "rev_hub/{id}.lxrf",
+    "meta": "meta/{m}.lxrf",
+    "names": "names/{n}.lxrf"
+  },
+  "pad": {
+    "fwd": 0,
+    "rev": 0,
+    "rev_hub": 0,
+    "meta": 0,
+    "names": 0
+  },
+  "meta_columns": [
+    "name",
+    "kind_idx",
+    "fan_in",
+    "fan_out",
+    "fan_out_type",
+    "fan_out_value",
+    "mod_idx",
+    "line_no",
+    "live_mask",
+    "dom_size",
+    "type_nodes",
+    "value_nodes"
+  ],
+  "name_columns": [
+    "name",
+    "decl_id",
+    "kind_idx",
+    "fan_in",
+    "fan_out",
+    "mod_idx",
+    "line_no"
+  ],
+  "stats": {
+    "total_bytes": 812,
+    "file_count": 5,
+    "max_shard_bytes": 317,
+    "max_shard_path": "meta/0.lxrf"
+  }
+}

@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":3,"kind":"abbrev","line":547,"live":1,"mod":"FLT.Data.QHat","name":"QHat.zHatsub"},{"dom":1,"fan_in":3,"kind":"def","line":41,"live":1,"mod":"FLT.Data.QHat","name":"ZHat"},{"dom":1,"fan_in":3,"kind":"instance","line":254,"live":1,"mod":"FLT.Data.QHat","name":"ZHat.ZHat_flat"}]

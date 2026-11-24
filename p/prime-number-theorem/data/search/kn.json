@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":4,"kind":"lemma","line":273,"live":1,"mod":"PrimeNumberTheoremAnd.Mathlib.Analysis.Complex.CartanBound","name":"Complex.CartanBound.K_nonneg"},{"dom":0,"fan_in":0,"kind":"lemma","line":177,"live":0,"mod":"PrimeNumberTheoremAnd.Unused.Fejer_I_know_this_is_dirty_but_it_typechecks","name":"k_n_properties"}]

@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":7,"kind":"def","line":154,"live":1,"mod":"Carleson.TileStructure","name":"TileLike.fst"},{"dom":1,"fan_in":7,"kind":"lemma","line":157,"live":1,"mod":"Carleson.TileStructure","name":"TileLike.fst_mk"},{"dom":1,"fan_in":4,"kind":"lemma","line":114,"live":1,"mod":"Carleson.ProofData","name":"F_subset"}]

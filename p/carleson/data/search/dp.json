@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":4,"kind":"lemma","line":214,"live":1,"mod":"Carleson.ToMathlib.RealInterpolation.Misc","name":"ChoiceScale.d_pos"},{"dom":1,"fan_in":4,"kind":"lemma","line":174,"live":1,"mod":"Carleson.ToMathlib.RealInterpolation.Misc","name":"ChoiceScale.d_pos_aux₀"},{"dom":1,"fan_in":2,"kind":"lemma","line":624,"live":1,"mod":"Carleson.Psi","name":"D_pow_a_inv"}]

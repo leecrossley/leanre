@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":7,"kind":"theorem","line":368,"live":1,"mod":"NavierStokes.AnnularEndpoint","name":"NavierStokes.AnnularEndpoint.awayExtensions_of_offplane"},{"dom":1,"fan_in":7,"kind":"theorem","line":399,"live":1,"mod":"NavierStokes.TailGaugePotential","name":"NavierStokes.TailGaugePotential.awayExtensions"}]

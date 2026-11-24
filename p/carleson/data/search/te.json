@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":5,"kind":"lemma","line":140,"live":1,"mod":"Carleson.ToMathlib.Distribution","name":"MeasureTheory.tendsto_measure_iUnion_distribution"},{"dom":1,"fan_in":2,"kind":"lemma","line":631,"live":1,"mod":"Carleson.MetricCarleson.Basic","name":"tendsto_carlesonOperatorIntegrand_of_dominated_convergence"}]

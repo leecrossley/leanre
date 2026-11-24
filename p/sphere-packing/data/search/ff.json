@@ -1,0 +1,1 @@
+[{"dom":1,"fan_in":4,"kind":"lemma","line":500,"live":1,"mod":"SpherePacking.ModularForms.FG","name":"F_functional_eq_real"},{"dom":1,"fan_in":4,"kind":"theorem","line":414,"live":1,"mod":"SpherePacking.ModularForms.FG","name":"F_functional_equation"},{"dom":1,"fan_in":4,"kind":"theorem","line":423,"live":1,"mod":"SpherePacking.ModularForms.FG","name":"F_functional_equation'"}]
